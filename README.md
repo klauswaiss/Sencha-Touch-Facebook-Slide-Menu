@@ -26,3 +26,4 @@ The FB_Slide_Menu_Container.js  comes with a list inside, but of course you can 
 
 
 ![ScreenShot](https://raw.github.com/klauswaiss/Sencha-Touch-Facebook-Slide-Menu/master/screen01.png)
+![ScreenShot](https://raw.github.com/klauswaiss/Sencha-Touch-Facebook-Slide-Menu/master/screen02.png)

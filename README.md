@@ -6,6 +6,12 @@ Very easy implementation to get you started. The goal was to provide a very open
 
 
 
+![ScreenShot](https://raw.github.com/klauswaiss/Sencha-Touch-Facebook-Slide-Menu/master/screen01.png)  - 
+![ScreenShot](https://raw.github.com/klauswaiss/Sencha-Touch-Facebook-Slide-Menu/master/screen02.png)
+
+
+
+
 Steps:
 ==========
 
@@ -24,6 +30,7 @@ The FB_Slide_Menu_Container.js is working inside an Ext.Tab.Panel (as a tab item
 The FB_Slide_Menu_Container.js  comes with a list inside, but of course you can put anything you need inside.
 
 
+TODOS/UNFINISHED:
+========
 
-![ScreenShot](https://raw.github.com/klauswaiss/Sencha-Touch-Facebook-Slide-Menu/master/screen01.png)  - 
-![ScreenShot](https://raw.github.com/klauswaiss/Sencha-Touch-Facebook-Slide-Menu/master/screen02.png)
+1.css for the title_bar in the sliding menu. Right now all title-bars are blue. To distinguish the main-title-bar from the sliding-menu-title-bar some css background_color would be nice.

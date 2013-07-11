@@ -1,7 +1,7 @@
 Sencha-Touch-Facebook-Slide-Menu
 ================================
 
-Facebook style slide menu for Sencha Touch apps - made in 5 minutes
+Facebook style slide menu for Sencha Touch apps - made in 5 minutes.
 Very easy implementation to get you started. The goal was to provide a very open starting point, giving you the basic functionality with all opportunities to extend.
 
 

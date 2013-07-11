@@ -22,3 +22,5 @@ NOTES:
 
 The FB_Slide_Menu_Container.js is working inside an Ext.Tab.Panel (as a tab item). If you want to include it into a common Container or Panel, you might have to change a few things.
 The FB_Slide_Menu_Container.js  comes with a list inside, but of course you can put anything you need inside.
+
+![ScreenShot](https://github.com/klauswaiss/Sencha-Touch-Facebook-Slide-Menu/blob/master/screen01.png)

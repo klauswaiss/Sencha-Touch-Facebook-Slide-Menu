@@ -13,7 +13,7 @@ Steps:
 
 2. Implement FB_Slide_Menu_Container.js  into your app.js (under views). See example
 
-3. Add the fb_slide_menu_container to your view. See example
+3. Add the fb_slide_menu_container to your view. See example (.../app/view/Main.js)
 
 
 

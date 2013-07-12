@@ -8,6 +8,7 @@ Ext.define('FBSlideMenu.view.FB_Slide_Menu_Container', {
         {
             xtype: 'container',
             id: 'sliding_menu',
+            cls: 'sliding_menu',
             flex: 4,
             layout: 'fit',
 			items: [

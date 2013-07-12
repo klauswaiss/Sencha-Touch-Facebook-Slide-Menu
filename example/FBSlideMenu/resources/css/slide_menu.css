@@ -1,0 +1,15 @@
+.myList .x-innerhtml {
+  color: white !important;
+  font-size:25px;
+}
+
+
+
+.sliding_menu .x-toolbar-dark {
+	
+	background-color: #222222 !important;
+	color: white;
+	background-image: -webkit-linear-gradient(top, #222222,#222222 3%,#222222) !important;
+}
+
+

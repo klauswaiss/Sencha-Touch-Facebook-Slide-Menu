@@ -21,6 +21,9 @@ Steps:
 
 3. Add the fb_slide_menu_container to your view. See example (.../app/view/Main.js)
 
+4. Add the css for the slide menu to your resources (..../resources/css/slide_menu.css)
+
+5. Implement the css for the slide menu in your app.json
 
 
 NOTES:

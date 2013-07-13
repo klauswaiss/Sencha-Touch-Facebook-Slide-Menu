@@ -59,9 +59,9 @@ Ext.define('FBSlideMenu.view.FB_Slide_Menu_Container', {
 						    var settingsPanel = Ext.getCmp('sliding_menu');
                         
 					        if (settingsPanel.isHidden()) {
-					            settingsPanel.show({type:'slide', direction:'right', duration:110});
+					            settingsPanel.show({type:'slideIn', direction:'right', duration:70});
 					        } else {
-					            settingsPanel.hide();
+					            settingsPanel.hide({type: 'slideOut', direction: 'left', duration: 70});
 					        } 
 						}
                     }
